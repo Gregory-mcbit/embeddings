@@ -1,0 +1,2 @@
+# embeddings
+Embeddings study project
